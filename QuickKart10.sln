@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33414.496
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickKart10", "QuickKart10.csproj", "{F4C27904-3B30-4D20-9DF3-F2330A3015DD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopFunctions", "..\ShopFunctions\ShopFunctions.csproj", "{B432CD20-883D-4A03-B7A0-47CE74EF4141}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F4C27904-3B30-4D20-9DF3-F2330A3015DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4C27904-3B30-4D20-9DF3-F2330A3015DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4C27904-3B30-4D20-9DF3-F2330A3015DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B432CD20-883D-4A03-B7A0-47CE74EF4141}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B432CD20-883D-4A03-B7A0-47CE74EF4141}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B432CD20-883D-4A03-B7A0-47CE74EF4141}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B432CD20-883D-4A03-B7A0-47CE74EF4141}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
